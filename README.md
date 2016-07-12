@@ -3,6 +3,20 @@ uzu-starter
 
 Basic [uzu](https://gitlab.com/samcns/uzu) starter project based on [HTML5 Boilerplate](https://html5boilerplate.com/).
 
+Getting started
+===============
+
+1. Install [uzu](https://gitlab.com/samcns/uzu)
+2. Clone this repository:
+```
+git clone https://gitlab.com/samcns/uzu-starter.git your-project-name
+cd your-project-name/
+```
+3. Start watch server with uzu
+```
+uzu watch default # default is the layout name in layouts/
+```
+
 Folder structure
 ================
 
