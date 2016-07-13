@@ -1,10 +1,6 @@
 
 [defaults]
-build_dir=build
 name=uzu-starter
 language=en-US
-themes_dir=themes
 theme=default
-assets_dir=assets
-partials_dir=partials
 url=https://gitlab.com/samcns/uzu-starter
