@@ -14,14 +14,14 @@ cd your-project-name/
 ```
 3. Start watch server with uzu
 ```
-uzu watch default # default is the layout name in layouts/
+uzu watch
 ```
 
 Folder structure
 ================
 
 ```
-layouts
+themes
 └── default.mustache  # Main layout, use with uzu: e.g. uzu watch default
 partials              # Content partials
 ├── content.mustache
