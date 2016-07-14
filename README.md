@@ -22,6 +22,8 @@ Folder structure
 
 ```
 ├── config
+├── i18n
+│   ├── en.yml
 ├── pages
 │   ├── about.mustache
 │   └── index.mustache
