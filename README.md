@@ -21,7 +21,7 @@ Folder structure
 ================
 
 ```
-├── config
+├── config.yml
 ├── i18n
 │   ├── en.yml
 ├── pages
