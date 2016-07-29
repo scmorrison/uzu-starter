@@ -2,3 +2,4 @@
         <p>[% copyright %]</p>
         <a class="navbar-brand" href="about.html">About Us</a>
       </footer>
+      <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
