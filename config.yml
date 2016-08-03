@@ -1,5 +1,6 @@
 ---
 name: uzu-starter
-language: en
+language: 
+  - en
 theme: default
-url: https://gitlab.com/samcns/uzu-starter
+url: "https://gitlab.com/samcns/uzu-starter"
