@@ -3,6 +3,8 @@ uzu-starter
 
 Basic [Uzu](https://gitlab.com/samcns/uzu) starter project based on [HTML5 Boilerplate](https://html5boilerplate.com/).
 
+![uzu-starter screenshot](https://gitlab.com/samcns/uzu-starter/raw/master/public/uzu-starter-ss.png)
+
 Getting started
 ===============
 
