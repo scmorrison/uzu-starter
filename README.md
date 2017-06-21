@@ -1,7 +1,7 @@
 uzu-starter
 ===========
 
-Basic [uzu](https://gitlab.com/samcns/uzu) starter project based on [HTML5 Boilerplate](https://html5boilerplate.com/).
+Basic [Uzu](https://gitlab.com/samcns/uzu) starter project based on [HTML5 Boilerplate](https://html5boilerplate.com/).
 
 Getting started
 ===============
@@ -21,22 +21,24 @@ Folder structure
 ================
 
 ```
-├── config.yml
-├── i18n
+├── config.yml                    # Uzu config file
+├── i18n                          # Language translation files
 │   ├── en.yml
-├── pages
+├── pages                         # Each page becomes a .html file
 │   ├── about.mustache
 │   └── index.mustache
-├── partials
-│   ├── footer.mustache
+├── partials                      # Partials can be included in pages
+│   ├── footer.mustache           # and themes
 │   ├── head.mustache
 │   ├── home.mustache
 │   ├── jumbotron.mustache
 │   ├── navigation.mustache
 │   └── profiles.mustache
-└── themes
+├── public                        # Static files / assets independant of theme (copied to /)
+    └── robots.txt
+└── themes                        # Project themes
     └── default
-        ├── assets
+        ├── assets                # Theme specific static files / assets (copied to /)
         │   ├── apple-touch-icon.png
         │   ├── browserconfig.xml
         │   ├── css
@@ -65,17 +67,16 @@ Folder structure
         │   │       └── npm.js
         │   ├── tile.png
         │   └── tile-wide.png
-        └── layout
+        └── layout                # Theme layout file
             └── layout.mustache
 ```
 
 Requirements
 ============
 
-* [uzu](https://gitlab.com/samcns/uzu)
+* [Uzu](https://gitlab.com/samcns/uzu)
 
 AUTHORS
 =======
 
 * [Sam Morrison](@samcns)
-.
