@@ -1,17 +1,17 @@
 uzu-starter
 ===========
 
-Basic [Uzu](https://gitlab.com/samcns/uzu) starter project based on [HTML5 Boilerplate](https://html5boilerplate.com/).
+Basic [Uzu](https://github.com/scmorrison/uzu) starter project based on [HTML5 Boilerplate](https://html5boilerplate.com/).
 
-![uzu-starter screenshot](https://gitlab.com/samcns/uzu-starter/raw/master/public/uzu-starter-ss.png)
+![uzu-starter screenshot](https://raw.githubusercontent.com/scmorrison/uzu-starter/master/public/uzu-starter-ss.png)
 
 Getting started
 ===============
 
-1. Install [uzu](https://gitlab.com/samcns/uzu)
+1. Install [uzu](https://github.com/scmorrison/uzu)
 2. Clone this repository:
 ```
-git clone https://gitlab.com/samcns/uzu-starter.git your-project-name
+git clone https://github.com/scmorrison/uzu-starter your-project-name
 cd your-project-name/
 ```
 3. Start watch server with uzu
@@ -76,7 +76,7 @@ Folder structure
 Requirements
 ============
 
-* [Uzu](https://gitlab.com/samcns/uzu)
+* [Uzu](https://github.com/scmorrison/uzu)
 
 AUTHORS
 =======
