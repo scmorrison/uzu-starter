@@ -1,3 +1,6 @@
+---
+title: Welcome to uzu-starter
+---
 [% INCLUDE "jumbotron" %]
 
 [% INCLUDE "home" %]
