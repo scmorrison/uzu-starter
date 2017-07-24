@@ -3,7 +3,7 @@ uzu-starter (Mustache example)
 
 Basic [Uzu](https://github.com/scmorrison/uzu) starter project based on [HTML5 Boilerplate](https://html5boilerplate.com/).
 
-![uzu-starter screenshot](https://raw.githubusercontent.com/scmorrison/uzu-starter/master/public/uzu-starter-ss.png)
+![uzu-starter screenshot](https://raw.githubusercontent.com/scmorrison/uzu-starter/master/ss/uzu-starter-ss.png)
 
 Getting started
 ===============
