@@ -1,4 +1,4 @@
-uzu-starter (Template6 example
+uzu-starter (Template6 example)
 ===========
 
 Basic [Uzu](https://github.com/scmorrison/uzu) starter project based on [HTML5 Boilerplate](https://html5boilerplate.com/).
