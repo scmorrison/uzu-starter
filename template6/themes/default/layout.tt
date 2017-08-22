@@ -9,7 +9,7 @@
 
       [% INCLUDE "navigation" %]
 
-      [% content %]
+      [% INCLUDE "content" %]
 
       [% INCLUDE "footer" %]
 

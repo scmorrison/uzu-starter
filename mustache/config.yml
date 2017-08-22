@@ -5,3 +5,4 @@ language:
 template_engine: mustache
 theme: default
 url: "https://gitlab.com/samcns/uzu-starter"
+categories_root: cats
