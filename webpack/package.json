@@ -1,0 +1,17 @@
+{
+    "name": "uzu-webpack-boilerplate",
+    "version": "0.0.1",
+    "description": "Example Uzu project integrated with webpack",
+    "license": "Artistic-2.0",
+    "devDependencies": {
+        "@babel/core": "^7.1.6",
+        "@babel/preset-env": "^7.1.6",
+        "@babel/preset-react": "^7.0.0",
+        "babel-loader": "^8.0.4",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-react": "^6.5.0",
+        "react": "^15.0.2",
+        "react-addons-update": "^15.0.2",
+        "react-dom": "^15.0.2"
+    }
+}
